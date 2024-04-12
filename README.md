@@ -25,7 +25,7 @@ Relationship with Jupyter: Pandas is commonly used within Jupyter notebooks, an 
     - Estimating the cost of each line including shipping expenses.
     - Determining the profit for each line.
 
--Confirmation of Results:
+- Confirmation of Results
     - Verifying calculated total prices against provided order receipts.
 
 - Summarization and Analysis:
